@@ -1,0 +1,20 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Trying backend with Node.",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoRaz049/Node.git"
+  },
+  "author": "Soraz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoRaz049/Node/issues"
+  },
+  "homepage": "https://github.com/SoRaz049/Node#readme"
+}
